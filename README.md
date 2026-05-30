@@ -18,7 +18,7 @@ A Machine Learning project that predicts the risk of heart disease using patient
 - Model Evaluation
 - SHAP Explainability
 
-## ▶️ Usage
+##  Usage
 1. Place `heart.csv` in the project folder.
 2. Open `predict.ipynb`.
 3. Run all cells.
