@@ -23,5 +23,5 @@ A Machine Learning project that predicts the risk of heart disease using patient
 2. Open `predict.ipynb`.
 3. Run all cells.
 
-## 📌 Dataset
+##  Dataset
 Heart Disease UCI Dataset
