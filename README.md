@@ -11,7 +11,7 @@ A Machine Learning project that predicts the risk of heart disease using patient
 - Seaborn
 - SHAP
 
-## 📊 Features
+##  Features
 - Data Preprocessing
 - Logistic Regression
 - Random Forest Classifier
