@@ -1,8 +1,8 @@
-# ❤️ Heart Disease Risk Predictor
+#  Heart Disease Risk Predictor
 
 A Machine Learning project that predicts the risk of heart disease using patient health data.
 
-## 🚀 Tech Stack
+##  Tech Stack
 - Python
 - Pandas
 - NumPy
