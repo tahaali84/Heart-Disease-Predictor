@@ -9,7 +9,6 @@ A Machine Learning project that predicts the risk of heart disease using patient
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- SHAP
 
 ## 📊 Features
 - Data Preprocessing
